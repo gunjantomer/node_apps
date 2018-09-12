@@ -62,3 +62,6 @@ typings/
 
 # db config file
 config/db.js
+
+# VSCode files
+.vscode
