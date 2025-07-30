@@ -10,7 +10,7 @@
   "author": "alchemist009",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^2.2.0",
     "express": "^4.21.2",
     "mongodb": "^6.16.0",
     "npm": "^11.0.0"
